@@ -1,4 +1,5 @@
 # Open source practice
+[![tests](https://github.com/ttarm28-eng/New-Repo-1/actions/workflows/tests.yml/badge.svg)](https://github.com/ttarm28-eng/New-Repo-1/actions/workflows/tests.yml)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
